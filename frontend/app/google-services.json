@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "454355179947",
+    "project_id": "android-app-4dca0",
+    "storage_bucket": "android-app-4dca0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454355179947:android:1db73ae0dc2f85dfebdaee",
+        "android_client_info": {
+          "package_name": "com.example.taskmanagerandproductivitytracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_TmCsAEiT-wbpSi8Of04lCruVfIoq8yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
